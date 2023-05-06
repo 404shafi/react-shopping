@@ -1,0 +1,10 @@
+.review-item {
+  border-bottom: 1px solid red;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.review-item img {
+  width: 80px;
+}

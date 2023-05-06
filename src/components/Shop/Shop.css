@@ -1,0 +1,16 @@
+.shop-container {
+  display: flex;
+}
+.products-container {
+  padding: 10px;
+  width: 75%;
+  background-color: green;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.cart-container {
+  width: 25%;
+  background-color: yellow;
+}

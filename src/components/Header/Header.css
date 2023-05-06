@@ -1,0 +1,17 @@
+.header {
+  background-color: black;
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+}
+.header img {
+  width: 180px;
+}
+
+.menu a {
+  text-decoration: none;
+  color: aqua;
+  margin: 0 12px;
+}
